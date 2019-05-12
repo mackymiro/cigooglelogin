@@ -1,0 +1,57 @@
+.colorP{
+	color:#f29e2e;
+	font-size: 14px;
+	font-family: Myriad Pro;
+}
+
+h1{
+	font-size: 24px;
+	font-family: Myriad Pro;
+	
+}
+
+.centerStyle{
+	font-size:17px;
+	margin-top:30px;
+	text-align:center;
+}
+
+.textStyle{
+	font-size:17px;
+	margin-top:20px;
+	text-align:center;
+	color:#7b7c7d;
+}
+
+.qrcode{
+	text-align:center;
+	font-size:26px;
+	
+}
+
+.footerBox{
+    margin-top:30px;
+	background-color:#2e353f;
+	height:100px;
+}
+
+@media all and (max-width: 900px) {
+	.footerBox{
+		margin-top:30px;
+		background-color:#2e353f;
+		height:300px;
+	}
+}
+
+
+.dotted{
+	border-color:red;
+	font-size:22px;
+	border-style: dashed; 
+	color:#6c6b6b;
+}
+
+.conPartnerSites p{
+   color:#6b6e77;
+}
+
